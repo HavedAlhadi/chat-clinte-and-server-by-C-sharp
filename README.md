@@ -5,4 +5,11 @@
 ## الوصف بالعربي: 
 ### المشروع يهدف إلى إنشاء عميل وخادم للدردشة باستخدام لغة البرمجة C# وإطار العمل .NET. يتولى الكود الخادم إعداد مأخذ TCP/IP والاستماع لاتصالات العملاء الواردة، والتعامل مع التواصل مع العملاء المتصلين.
 
-[Uploading my_chat.pdf…]()
+## Log in to chat:
+![Log in to chat](https://github.com/HavedAlhadi/chat-clinte-and-server-by-C-sharp/assets/130609547/fe5f6f76-da44-4ded-8954-ead87baffc33)
+
+## client Form: 
+![clinte](https://github.com/HavedAlhadi/chat-clinte-and-server-by-C-sharp/assets/130609547/db7a460f-b34c-4cff-b68d-0b57d8590d7d)
+
+## server Form: 
+![server](https://github.com/HavedAlhadi/chat-clinte-and-server-by-C-sharp/assets/130609547/335b7bbf-0680-402c-999d-41612ae708fe)
