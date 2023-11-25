@@ -1,0 +1,35 @@
+D:\مشروع التشفير\MeChat\ChatServer\chat\bin\Debug\chat.exe.config
+D:\مشروع التشفير\MeChat\ChatServer\chat\bin\Debug\chat.exe
+D:\مشروع التشفير\MeChat\ChatServer\chat\bin\Debug\chat.pdb
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chatServer.csprojAssemblyReference.cache
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.BeautyForm.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.Server.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.BubImage.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.MeBubble.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.ChatHeader.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.Properties.Resources.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.SearchBox.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.TypingBox.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.YouBubble.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chatServer.csproj.GenerateResource.cache
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.exe
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.pdb
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.Clints.resources
+D:\مشروع التشفير\MeChat\ChatServer\chat\obj\Debug\chat.Form1.resources
+D:\عبدالله\MeChat\ChatServer\chat\bin\Debug\chat.exe.config
+D:\عبدالله\MeChat\ChatServer\chat\bin\Debug\chat.exe
+D:\عبدالله\MeChat\ChatServer\chat\bin\Debug\chat.pdb
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.BeautyForm.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.Server.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.BubImage.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.MeBubble.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.ChatHeader.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.Properties.Resources.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.SearchBox.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.TypingBox.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.Clints.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.YouBubble.resources
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chatServer.csproj.GenerateResource.cache
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.exe
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chat.pdb
+D:\عبدالله\MeChat\ChatServer\chat\obj\Debug\chatServer.csprojAssemblyReference.cache
